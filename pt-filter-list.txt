@@ -11,6 +11,8 @@
 @@||au.download.windowsupdate.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||cdn.content.prod.cms.msn.com^$important
+@@||settings-win.data.microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
 @@||s.xmcp.ltd^$important
 @@||www.pullywood.com^$important
 @@||ad.dmm.com^$important
