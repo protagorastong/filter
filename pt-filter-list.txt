@@ -1,3 +1,15 @@
+@@||s.xmcp.ltd^$important
+@@||www.pullywood.com^$important
+/^(.+[_.-])?lb._dns-sd*[_.-]/
+@@||officeclient.microsoft.com^$important
+||in-addr.arpa^$important
+||taiji.sina.cn^$important
+||apd-vodp2plogin.teg.tencent-cloud.net^$important
+||input.shouji.sogou.com^$important
+||dl.pinyin.sogou.com^$important
+||fc1tn.baidu.com^$important
+||api.contents-search-windows.com^$important
+||firebaseremoteconfig.googleapis.com^$important
 @@||ad.dmm.com^$important
 @@||ads.nexage.com^$important
 @@||alicdn.com^$important
