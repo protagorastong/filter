@@ -1,5 +1,6 @@
 a.alimama.cn
 acjs.aliyun.com
+fc1tn.baidu.com
 adash.m.taobao.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
@@ -106,6 +107,7 @@ bar.baidu.com
 bdimg.share.baidu.com
 bdplus.baidu.com
 bj.bcebos.com
+cdn.bcebos.com
 btlaunch.baidu.com
 c.baidu.com
 cb.baidu.com
