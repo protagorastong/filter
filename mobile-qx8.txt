@@ -2,8 +2,6 @@ DOMAIN-SUFFIX,api.neixin.cn,REJECT
 DOMAIN-SUFFIX,catdot.dianping.com,REJECT
 DOMAIN-SUFFIX,dreport.meituan.net,REJECT
 DOMAIN-SUFFIX,medusa.dianping.com,REJECT
-DOMAIN-SUFFIX,portal-portm.meituan.com,REJECT
-DOMAIN-SUFFIX,sankuai.com,REJECT
 # IP range
 IP-CIDR,101.226.211.0/24,REJECT
 IP-CIDR,101.236.12.0/24,REJECT
